@@ -1,2 +1,1 @@
-# hello-world
-hw
+a bit about myself
